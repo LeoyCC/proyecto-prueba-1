@@ -1,3 +1,3 @@
 # Proyecto Git
 
-## Creando un commit:
+breve descripción de mi primer proyecto
